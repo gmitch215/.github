@@ -4,7 +4,7 @@ Contributing guidelines for the project. We appreciate your help in helping us t
 ## Pull Requeset Process
 1.) Ensure that the pull request is at the correct branch you want to merge in.
 
-2.) Ensure that your new code has been tested on a Maven Compiler, your specified Minecraft Version(s), and whatever JDK the latest version supports (currently **JDK 17**)
+2.) Ensure that your new code has been tested and works properly.
 
 3.) Confirm that the code is ready to be merged along with any documentation you intend to include.
 
