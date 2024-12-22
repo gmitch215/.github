@@ -1,7 +1,7 @@
 # Contributing
-Contributing guidelines for the project. We appreciate your help in helping us to improve the project.
+Contributing guidelines for the project. We appreciate your help in improving the project.
 
-## Pull Requeset Process
+## Pull Request Process
 1.) Ensure that the pull request is at the correct branch you want to merge in.
 
 2.) Ensure that your new code has been tested and works properly.
